@@ -1,4 +1,15 @@
+
+# Memory Game
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Memory game coded in **React**
+## Date of creation of this project: 07/2020
+## Updated at: 04/2021
+
+### le cadre de ma formation au Java sur [codecademy](https://www.codecademy.com)
+### _Lien de cette formation:_ [Learn React](https://www.codecademy.com/learn/react-101)
+### This project was updated by including testing on April 2021.
 
 ## Available Scripts
 
